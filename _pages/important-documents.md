@@ -18,4 +18,4 @@ post_date: 2014-11-14 10:24:15
 	Referral Program</a><a href="http://ecosmartecloud.com/wp-content/uploads/2015/07/About-Upgrading-Your-Ecosmarte-System.compressed.pdf" target="_blank">
 	Upgrading Your System</a>
         <a href="https://www.youtube.com/watch?v=W2oSHY7lz80" target="_blank">Installing a Spa System</a>
-        <a href="http://ecosmartecloud.com/wp-content/uploads/2019/03/Operating_a_Spa.pdf target="_blank">Operating a Spa System"</a>&nbsp;&nbsp;
+        <a href="http://ecosmartecloud.com/wp-content/uploads/2019/03/Operating_a_Spa.pdf target="_blank">Operating a Spa System</a>&nbsp;&nbsp;
