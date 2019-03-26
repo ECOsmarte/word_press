@@ -8,4 +8,4 @@ permalink: http://ecosmartecloud.com/spa-help/
 published: true
 post_date: 2014-08-06 11:41:05
 ---
-<center>[php snippet=26]</center>
+[php snippet=26]
