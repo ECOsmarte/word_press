@@ -53,7 +53,9 @@ $browser_name = browser();
 	<h1><span style="font-size:45px; font-weight: bold;">INDEX</span></h1>
 	<br>
 	
-	<center><a href="http://ecosmartecloud.com/wp-admin/php/training/ECOSMARTE UNIVERSITY.pdf" class="button blue">Take the Lesson</a>&nbsp;<a href=" http://ecosmartecloud.com/quiz-2/" class="button blue">Take the Test</a></center>
+<!--	<center><a href="http://ecosmartecloud.com/wp-admin/php/training/ECOSMARTE UNIVERSITY.pdf" class="button blue">Take the Lesson</a>&nbsp;<a href=" http://ecosmartecloud.com/quiz-2/" class="button blue">Take the Test</a></center> -->
+	<center><a href="http://ecosmartecloud.com/help-screen/" class="button blue">Take the Lesson</a>&nbsp;<a href=" http://ecosmartecloud.com/quiz-2/" class="button blue">Take the Test</a></center> 
+
 	
 </center>
 
