@@ -9,7 +9,7 @@ published: true
 post_date: 2015-07-14 11:55:07
 ---
 Troubleshoot - Lights not circling or gallons not counting POE
-<video controls="controls" width="615" height="537" 
+<video controls="controls" width="229" height="200" 
        name="Troubleshoot - Lights not circling or gallons not counting POE" src="http://ecosmartecloud.com/wp-content/uploads/video/troubleshoot-lights-not-circling-or-gallons-not-counting-poe.mov">
 </video>
 
