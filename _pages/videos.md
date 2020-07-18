@@ -8,12 +8,6 @@ permalink: http://ecosmartecloud.com/videos/
 published: true
 post_date: 2015-07-14 11:55:07
 ---
-ECOsmarte Spa Installation
-
-[video width="1280" height="720" mp4="http://ecosmartecloud.com/wp-content/uploads/2020/07/ECOsmarte-Spa-Installation-Video.mp4"][/video]
-
-&nbsp;
-
 Troubleshoot - Lights not circling or gallons not counting POE
 <video src="http://ecosmartecloud.com/wp-content/uploads/video/troubleshoot-lights-not-circling-or-gallons-not-counting-poe.mov" controls="controls" width="229" height="200">
 </video>
