@@ -23,8 +23,10 @@ ECOsmarte's Zero Backwash Phosphate Remover
 
 &nbsp;
 
-How to Install Glass Pack Filter Media
-<a href="https://www.youtube.com/watch?v=Se95gwx3Y1Q" target="_blank" rel="noopener"><img class="alignleft size-full wp-image-2323" src="http://ecosmartecloud.com/wp-content/uploads/2015/07/installglasspack.jpg" alt="installglasspack" width="268" height="150" /></a>
+&nbsp;
+<p style="text-align: left;">How to Install Glass Pack Filter Media
+<a href="https://www.youtube.com/watch?v=Se95gwx3Y1Q" target="_blank" rel="noopener"><img class="alignleft size-full wp-image-2323" src="http://ecosmartecloud.com/wp-content/uploads/2015/07/installglasspack.jpg" alt="installglasspack" width="268" height="150" /></a></p>
+&nbsp;
 
 &nbsp;
 
@@ -45,6 +47,8 @@ How to Clean a Cu/Oxy Chamber
 
 &nbsp;
 
+&nbsp;
+
 How to Program an Automatic ECOsmarte Control Box with CO2
 <a href="https://www.youtube.com/watch?v=6DGRCT_kFrE&amp;t=29s" target="_blank" rel="noopener"><img class="alignleft wp-image-2325 size-full" src="http://ecosmartecloud.com/wp-content/uploads/2015/07/program_cbox.jpg" alt="program_cbox" width="268" height="150" /></a>
 
@@ -56,8 +60,12 @@ How to Program an Automatic ECOsmarte Control Box with CO2
 
 &nbsp;
 
+&nbsp;
+
 Every Pond Can Be Fixed
 <a href="https://www.youtube.com/watch?v=FvR9OJm0Dtw" target="_blank" rel="noopener"><img class="alignleft size-full wp-image-2327" src="http://ecosmartecloud.com/wp-content/uploads/2015/07/pond_fix.jpg" alt="program_cbox" width="268" height="150" /></a>
+
+&nbsp;
 
 &nbsp;
 
