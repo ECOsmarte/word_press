@@ -18,6 +18,10 @@ post_date: 2015-07-14 11:55:07
 
 &nbsp;
 
+[caption id="attachment_2468" align="alignnone" width="300"]<a href="https://www.youtube.com/watch?v=Y6gQT3n36mI"><img class="wp-image-2468 size-medium" src="http://ecosmartecloud.com/wp-content/uploads/2020/07/Screenshot-15-300x240.png" alt="" width="300" height="240" /></a> Troubleshoot – Lights not circling or gallons not counting on Whole House Water System[/caption]
+
+&nbsp;
+
 Troubleshoot - Lights not circling or gallons not counting POE
 <video src="http://ecosmartecloud.com/wp-content/uploads/video/troubleshoot-lights-not-circling-or-gallons-not-counting-poe.mov" controls="controls" width="278" height="278">
 </video>
