@@ -29,6 +29,6 @@ Upgrading Your System</a>
 <a href="http://ecosmartecloud.com/wp-content/uploads/2019/05/POE_Well_Owners-Manual_SXT_2011.pdf" target="_blank" rel="noopener">POE Well Owners Manual</a>
 <a href="http://ecosmartecloud.com/wp-content/uploads/2019/05/SXT-service-manual.pdf" target="_blank" rel="noopener">SXT Service Manual</a>
 
-Specialty Filters
+<strong>Specialty Filters</strong>
 
 <a href="http://ecosmartecloud.com/wp-content/uploads/2020/07/NO_BACKWASH-Specialty_Water_Treatment.pdf" target="_blank" rel="noopener">ZERO Backwash Manual--Townhome, Houseboat, Yacht or RV/Diesel Pusher</a>
