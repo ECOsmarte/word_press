@@ -22,10 +22,6 @@ post_date: 2015-07-14 11:55:07
 
 &nbsp;
 
-Troubleshoot - Lights not circling or gallons not counting POE
-<video src="http://ecosmartecloud.com/wp-content/uploads/video/troubleshoot-lights-not-circling-or-gallons-not-counting-poe.mov" controls="controls" width="278" height="278">
-</video>
-
 ECOsmarte's Zero Backwash Phosphate Remover
 <a href="https://www.youtube.com/watch?v=J47ii2rY-g8" target="_blank" rel="noopener"><img class="alignleft size-full wp-image-2323" src="http://ecosmartecloud.com/wp-content/uploads/2020/07/zero-backwash.jpg" alt="zero backwash" width="268" height="150" /></a>
 
