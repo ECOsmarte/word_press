@@ -16,7 +16,7 @@ Comprehensive Guide to Swimming Pool Ownership</a><a href="http://ecosmartecloud
 Installing the Programmable Pool with CO2 PH Control</a><a href="http://ecosmartecloud.com/wp-content/uploads/2020/07/Programmable-Control-Box-Manual-2020.pdf" target="_blank" rel="noopener">
 Programming your Box</a><a href="http://ecosmartecloud.com/wp-content/uploads/2015/07/About-Ecosmarte-Whole-House-Water.pdf" target="_blank" rel="noopener">
 About Whole House Water</a><a href="http://ecosmartecloud.com/wp-content/uploads/2015/07/Referral-Program.pdf" target="_blank" rel="noopener">
-Referral Program</a><a href="http://ecosmartecloud.com/wp-content/uploads/2015/07/About-Upgrading-Your-Ecosmarte-System.compressed.pdf" target="_blank" rel="noopener">
+Referral Program</a><a href="http://ecosmartecloud.com/wp-content/uploads/2020/08/About-Upgrading-Your-Ecosmarte-System-2.pdf" target="_blank" rel="noopener">
 Upgrading Your System</a>
 <a href="https://www.youtube.com/watch?v=W2oSHY7lz80" target="_blank" rel="noopener">Installing a Spa System</a>
 <a href="http://ecosmartecloud.com/wp-content/uploads/2019/03/Operating_a_Spa.pdf" target="_blank" rel="noopener">Operating a Spa System</a>
