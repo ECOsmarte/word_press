@@ -13,8 +13,8 @@ post_date: 2014-06-02 13:27:46
 <div id="contact" style="display: table;">
 <div id="address" style="float: left; width: 500px;">
 <h3>ADDRESS</h3>
-<h4>1600 E. 78th St
-Minneapolis, MN 55423
+<h4>9437 Garfield Ave S.  Suite 110</h4>
+<h4>Minneapolis, MN 55420
 612-866-1200</h4>
 <h3>CONTACT INFO</h3>
 <h4><strong>Local Phone:</strong> 612-866-1200
