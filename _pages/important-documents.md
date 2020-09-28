@@ -12,7 +12,7 @@ post_date: 2014-11-14 10:24:15
 <a href="http://ecosmartecloud.com/wp-content/uploads/2014/11/Owners-Manual_2011.pdf" target="_blank" rel="noopener">
 Owners Manual</a><a href="http://ecosmartecloud.com/wp-content/uploads/2014/11/Programmable-Pool-Manual_2014.pdf" target="_blank" rel="noopener">
 Programmable Pool Manual</a><a href="http://ecosmartecloud.com/wp-content/uploads/2020/09/ComprehensiveGuidetoSwimmingPoolOwnership2020.pdf" target="_blank" rel="noopener">
-Comprehensive Guide to Swimming Pool Ownership</a><a href="http://ecosmartecloud.com/wp-content/uploads/2019/11/Programmable-Installation.pdf" target="_blank" rel="noopener">
+Comprehensive Guide to Swimming Pool Ownership</a><a href="http://ecosmartecloud.com/wp-content/uploads/2020/09/ECOsmarte_ProgrammablePoolandSpa_InstallMaunal.pdf" target="_blank" rel="noopener">
 Installing the Programmable Pool with CO2 PH Control</a><a href="http://ecosmartecloud.com/wp-content/uploads/2020/07/Programmable-Control-Box-Manual-2020.pdf" target="_blank" rel="noopener">
 Programming your Box</a><a href="http://ecosmartecloud.com/wp-content/uploads/2015/07/About-Ecosmarte-Whole-House-Water.pdf" target="_blank" rel="noopener">
 About Whole House Water</a><a href="http://ecosmartecloud.com/wp-content/uploads/2015/07/Referral-Program.pdf" target="_blank" rel="noopener">
@@ -30,4 +30,4 @@ Upgrading Your System</a>
 
 <strong>Specialty Filters</strong>
 
-<a href="http://ecosmartecloud.com/wp-content/uploads/2020/07/NO_BACKWASH-Specialty_Water_Treatment.pdf" target="_blank" rel="noopener">ZERO Backwash Manual--Townhome, Houseboat, Yacht or RV/Diesel Pusher</a>
+<a href="http://ecosmartecloud.com/wp-content/uploads/2020/07/NO_BACKWASH-Specialty_Water_Treatment.pdf" target="_blank" rel="noopener">ZERO Backwash Manual--Townhome, Houseboat, Yacht, or RV/Diesel Pusher</a>
