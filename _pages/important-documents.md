@@ -33,3 +33,12 @@ Upgrading Your System</a>
 <strong>Specialty Filters</strong>
 
 <a href="http://ecosmartecloud.com/wp-content/uploads/2020/07/NO_BACKWASH-Specialty_Water_Treatment.pdf" target="_blank" rel="noopener">ZERO Backwash Manual--Townhome, Houseboat, Yacht, or RV/Diesel Pusher</a>
+
+<strong>Older Manuals:</strong>
+POEM Year 2001-2004 GE Osmonics Valve Discontinued
+Models Prior to 2001 Have Model 1800 Thomas Flow Switch
+
+<a href="http://ecosmartecloud.com/wp-content/uploads/2020/12/POE_City_Water_Manual_2007.pdf">POE City Water Owners Manual 2001-2004</a>
+<a href="http://ecosmartecloud.com/wp-content/uploads/2020/12/POE-Well-Manual-2004-ver061404.pdf">POE Well Water Owners Manual 2001-2004</a>
+
+&nbsp;
