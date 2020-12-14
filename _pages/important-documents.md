@@ -11,8 +11,11 @@ post_date: 2014-11-14 10:24:15
 ---
 <a href="http://ecosmartecloud.com/wp-content/uploads/2014/11/Owners-Manual_2011.pdf" target="_blank" rel="noopener">Owners Manual</a>
 <a href="http://ecosmartecloud.com/wp-content/uploads/2020/12/SwedishPoolOwnersManual.pdf">Pool Owners Manual (Svenska)</a>
-<a href="http://ecosmartecloud.com/wp-content/uploads/2015/01/ProgrammableManualSpanish.docx">Pool Owners Manual (<span lang="es">Español</span>)</a><a href="http://ecosmartecloud.com/wp-content/uploads/2014/11/Programmable-Pool-Manual_2014.pdf" target="_blank" rel="noopener">
-Programmable Pool Manual</a><a href="http://ecosmartecloud.com/wp-content/uploads/2020/10/ComprehensiveGuidetoSwimmingPoolOwnership2020.pdf" target="_blank" rel="noopener">
+<a href="http://ecosmartecloud.com/wp-content/uploads/2015/01/ProgrammableManualSpanish.docx">Pool Owners Manual (<span lang="es">Español</span>)</a>
+<a href="http://ecosmartecloud.com/wp-content/uploads/2020/12/PoolOwnersManual_Russian.pdf" target="_blank" rel="noopener">Pool Owners Manual (Russian)</a>
+<a href="http://ecosmartecloud.com/wp-content/uploads/2020/12/PoolOwnersManual_Norway.pdf" target="_blank" rel="noopener">Pool Owners Manual (Norwegian)</a>
+<a href="http://ecosmartecloud.com/wp-content/uploads/2020/12/PoolOwnersManual_French.pdf">Pool Owners Manual (French)</a>
+<a href="http://ecosmartecloud.com/wp-content/uploads/2014/11/Programmable-Pool-Manual_2014.pdf" target="_blank" rel="noopener">Programmable Pool Manual</a><a href="http://ecosmartecloud.com/wp-content/uploads/2020/10/ComprehensiveGuidetoSwimmingPoolOwnership2020.pdf" target="_blank" rel="noopener">
 Comprehensive Guide to Swimming Pool Ownership</a><a href="http://ecosmartecloud.com/wp-content/uploads/2020/09/ECOsmarte_ProgrammablePoolandSpa_InstallMaunal.pdf" target="_blank" rel="noopener">
 Installing the Programmable Pool and Spa System with CO2 PH Control</a><a href="http://ecosmartecloud.com/wp-content/uploads/2020/07/Programmable-Control-Box-Manual-2020.pdf" target="_blank" rel="noopener">
 Programming your Box</a><a href="http://ecosmartecloud.com/wp-content/uploads/2015/07/About-Ecosmarte-Whole-House-Water.pdf" target="_blank" rel="noopener">
